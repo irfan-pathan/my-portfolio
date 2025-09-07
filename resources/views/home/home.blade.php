@@ -2,11 +2,11 @@
 @section('content')
 
     <!-- Hero Section -->
-    <section id="hero" class="hero section dark-background" style="background: black">
+    <section id="hero" class="hero section dark-background">
 
-        <img style="margin-left:380px" src="{{ asset('public/assets/frontent-assets/img/irfanface_right_facing.jpg')}}" alt="" data-aos="fade-in">
+        <img src="{{ asset('public/assets/frontent-assets/img/Picsart_25-09-07_09-22-46-888.jpg')}}" alt="" data-aos="fade-in">
   
-        <div class="container" data-aos="zoom-out" data-aos-delay="100">
+        <div style="margin-left:60%" class="container" data-aos="zoom-out" data-aos-delay="100">
           <h2>Irfan Pathan</h2>
           <p>I'm <span class="typed" data-typed-items="Developer, Freelancer"></span><span class="typed-cursor typed-cursor--blink"></span></p>
           <div class="social-links">
